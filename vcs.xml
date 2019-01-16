@@ -10,6 +10,10 @@
           <option name="url" value="https://gitlab.gbar.dtu.dk/paris/CourseProject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.gbar.dtu.dk/paris/DTUPayFinalVersion.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\DTU\02267-Software Development of Web" />
