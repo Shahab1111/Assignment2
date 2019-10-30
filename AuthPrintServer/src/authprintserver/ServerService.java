@@ -28,12 +28,12 @@ public class ServerService extends UnicastRemoteObject implements PrintService{
     }
 
     @Override
-    public String queue() {
+    public String queue(String printer) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public void topQueue(int job) {
+    public void topQueue(String printer, int job) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
@@ -53,7 +53,7 @@ public class ServerService extends UnicastRemoteObject implements PrintService{
     }
 
     @Override
-    public String status() {
+    public String status(String printer) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
