@@ -1,4 +1,7 @@
 <application>
+  <component name="DebuggerSettings">
+    <option name="INSTRUMENTING_AGENT" value="false" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
